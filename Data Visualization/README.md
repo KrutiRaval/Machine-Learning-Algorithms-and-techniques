@@ -1,0 +1,3 @@
+# Data Visualization
+
+Various tools including Python, numpy, matplotlib, pandas, and Jupyter notebook are used to visualize the data. With the help of these tools the dataset is scraped, scaled and preprocessed. Two datasets, one for Regression and one for Classification are taken into consideration. The dataset chosen for Regression is based on Physicochemical Properties of Protein Tertiary Structure and has 45,730 instances and 10 attributes on which inferences can be made from the data. On the other hand, the dataset for Classification describes Online Shoppers Purchasing Intension which has 12,330 samples and 18 feature values that maps relations between the data that needs to be processed and visualised
