@@ -1,0 +1,2 @@
+# Reinforcement Learning
+The main objective is to understand the use of Q-learning and SARSA algorithms to play a simple card game of Rummy. The core idea of using these algorithms is to repeatedly update the Q-values of the environment until the agent can optimally navigate to the goal node or win consistently in a game of Rummy. While implementing this, I also learnt how changing different parameters affects the agents learning.
